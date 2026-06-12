@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hey 👋
+
+I'm Archer.
+
+turning curiosity into infrastructure.
+
+Most of my free time is split between homelabs, coffee, anime, cats and projects that seemed like a good idea at the time.
+
+### Current interests
+
+* Self-hosting
+* Linux
+* Networking
+* Automation
+* Making life unnecessarily complicated
+
+Thanks for stopping by ✌️
 
 <!--
 **SleepyRemedy/SleepyRemedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
